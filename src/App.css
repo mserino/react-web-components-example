@@ -20,3 +20,11 @@
 .App-link {
   color: #09d3ac;
 }
+
+.App {
+  padding: 4px;
+}
+
+.App .form * {
+  margin-right: 4px;
+}
